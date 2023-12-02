@@ -1,13 +1,1 @@
-.classpath
-.DS_Store
-.gradle
-.idea
-.project
-.settings
-*.ipr
-*.iml
-*.iws
-bin
-build
-out
-target
+
