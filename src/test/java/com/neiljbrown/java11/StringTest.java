@@ -143,7 +143,7 @@ public class StringTest {
   public void testLines() {
     final String rhyme = "Twinkle, twinkle, little star,\n" +
       "How I wonder what you are.\r" +
-      "Up above the world so high,\r\n" +
+      "Up above the world so   high,\r\n" +
       "Like a diamond in the sky.\n" +
       "Twinkle, twinkle, little star,\r" +
       "How I wonder what you are!";
