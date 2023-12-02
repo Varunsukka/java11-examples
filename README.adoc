@@ -1,4 +1,4 @@
-= Java 11 example
+= Java 11
 :sectlinks:
 :sectnums:
 :sectnumlevels: 4
